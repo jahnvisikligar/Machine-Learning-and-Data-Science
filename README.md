@@ -21,4 +21,4 @@ Welcome to my collection of data science projects! In this repository, you'll fi
 - Heroku
 - MlXtend
 - XGBoost
-- OpenPyXl
+- OpenPyXL
